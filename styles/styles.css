@@ -1,0 +1,52 @@
+header {
+    background: rgba(229, 84, 115, 0.10);
+    margin: 0px;
+    width: 100%;
+}
+
+.header-img {
+    /* background: url(<path-to-image>), */
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+    margin-right: 240px;
+    margin-top: 50px;
+    padding-bottom: 0px;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    gap: 97px;
+    /* justify-content: space-between; */
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    margin-left: 240px;
+    margin-bottom: 32px;
+}
+
+.banner-descrip {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 240px;
+}
+
+.main-btn {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-left: 240px;
+    margin-bottom: 147px;
+}
