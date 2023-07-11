@@ -345,3 +345,21 @@ footer {
     font-size: 16px;
     font-weight: 400;
 }
+
+#other-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.other-container{
+    display: flex;
+    margin-left: 420px;
+    gap: 24px;
+    margin-bottom: 128px;
+}
